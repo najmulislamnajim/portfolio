@@ -1306,7 +1306,7 @@ img#nu-logo {
 /* ======= RESUME ======= */
 
 #resume {
-  background: url(../img/laptop-blur.jpg);
+  /* background: url(../img/laptop-blur.jpg); */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
