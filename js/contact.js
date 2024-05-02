@@ -28,7 +28,7 @@ const handleContact=()=>{
         return;
       }
 
-    fetch("http://127.0.0.1:8000/contact/list/",{
+    fetch("https://najim90.pythonanywhere.com/contact/list/",{
         method:"POST",
         headers:{
             "Content-Type":"application/json",
